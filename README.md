@@ -1,19 +1,6 @@
 <h1>WP Video Floater</h1>
-Contributors: ttiagorrodrigues
 
-Tags: video, float, youtube, vimeo, iframe, scroll, page
-
-Requires at least: 3.0.1
-
-Tested up to: 4.3
-
-Stable tag: 4.3
-
-License: GPLv2 or later
-
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-This plugin will allow you to keep your videos playing floating at the bottom of the page as you scroll down.
+<img src="http://wpgate.com.br/wp-content/uploads/2015/11/banner-772x250.png" alt="WP Video Floater" />
 
 <h2> Description </h2>
 
